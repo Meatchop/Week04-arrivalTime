@@ -1,6 +1,8 @@
 # Week04-arrivalTime
 compile:
 gcc printDepartureTime.c calculateDepartureTime.c calculateTravelTime.c main.c -o main
+
+
 decription:
 Write a computer program that computes the time one must leave in order to reach a certain
 destination by a designated time.
